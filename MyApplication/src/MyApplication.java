@@ -4,5 +4,8 @@ public class MyApplication {
 
         System.out.println("Hello from the main method !");
         System.out.println("Lidia !");
+
+        Dog dog1 = new Dog();
+        dog1.bark();
     }
 }
